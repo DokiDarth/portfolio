@@ -1,0 +1,6 @@
+.wrangler/
+.claude/
+.chromeprof/
+.orig-check.html
+web.html
+.DS_Store
