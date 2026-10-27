@@ -2,8 +2,8 @@
 
 Personal portfolio and CV of Govind Shankar Kumar, B.Tech Information Technology student at VIT.
 
-**Live site:** https://govind-portfolio.govisk.workers.dev
-**PDF:** https://govind-portfolio.govisk.workers.dev/Govind_Shankar_Kumar_Portfolio.pdf
+- **Live site:** https://govind-portfolio.govisk.workers.dev
+- **PDF:** https://govind-portfolio.govisk.workers.dev/Govind_Shankar_Kumar_Portfolio.pdf
 
 ## How it works
 
